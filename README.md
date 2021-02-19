@@ -1,5 +1,7 @@
 # c0met14
-
+<center>
+  <a href="#"><img src="https://imgur.com/zHqfowh" alt="Logo"></a>
+</center>
 
 This jailbreak is by the community, and was developed open source.
 
